@@ -21,12 +21,15 @@ PwmGenerator.v – Generates the PWM signal to control the servo at 0, 90, or 18
 ## Images
 
 State Machine
+
 ![StateMachine](https://github.com/bryonkucharski/FPGA-ultrasonic-radar/blob/master/images/blockdiagram.png)
 
 Technical Diagram 
+
 ![TechnicalDiagram](https://github.com/bryonkucharski/FPGA-ultrasonic-radar/blob/master/images/technicaldiagram.png)
 
 VGA
+
 ![VGA](https://github.com/bryonkucharski/FPGA-ultrasonic-radar/blob/master/images/vga.jpg)
 
 
